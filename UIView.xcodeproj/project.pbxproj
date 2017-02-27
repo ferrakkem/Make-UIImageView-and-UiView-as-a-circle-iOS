@@ -14,6 +14,8 @@
 		0745123A1E6422C70071FD77 /* UIView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 074512381E6422C70071FD77 /* UIView.xcdatamodeld */; };
 		0745123C1E6422C70071FD77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0745123B1E6422C70071FD77 /* Assets.xcassets */; };
 		0745123F1E6422C70071FD77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0745123D1E6422C70071FD77 /* LaunchScreen.storyboard */; };
+		074512491E6426FB0071FD77 /* thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 074512481E6426FB0071FD77 /* thor.jpg */; };
+		0745124B1E6428330071FD77 /* j.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0745124A1E6428330071FD77 /* j.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		0745123B1E6422C70071FD77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0745123E1E6422C70071FD77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		074512401E6422C70071FD77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		074512481E6426FB0071FD77 /* thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thor.jpg; sourceTree = "<group>"; };
+		0745124A1E6428330071FD77 /* j.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = j.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 			isa = PBXGroup;
 			children = (
 				0745122D1E6422C70071FD77 /* main.m */,
+				0745124A1E6428330071FD77 /* j.jpg */,
+				074512481E6426FB0071FD77 /* thor.jpg */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -140,7 +146,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0745124B1E6428330071FD77 /* j.jpg in Resources */,
 				0745123F1E6422C70071FD77 /* LaunchScreen.storyboard in Resources */,
+				074512491E6426FB0071FD77 /* thor.jpg in Resources */,
 				0745123C1E6422C70071FD77 /* Assets.xcassets in Resources */,
 				074512371E6422C70071FD77 /* Main.storyboard in Resources */,
 			);
